@@ -81,7 +81,6 @@
 
 
 
-
 ![Dashboard Preview](dataset-and-images/dashboard.png)
 
 # Ferns & Petals Sales Dashboard (Excel Project)
