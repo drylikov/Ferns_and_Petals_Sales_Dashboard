@@ -1,6 +1,6 @@
 ![Dashboard Preview](dataset-and-images/dashboard.png)
 
-# Ferns & Petals Sales Dashboard (Excel Project)
+# Ferns & Petals Sales Dashboard (Excel Project).
 
 ## Project Overview
 This project focuses on building an **interactive Excel dashboard** for **Ferns & Petals (FNP)**, an online gifting company.  
